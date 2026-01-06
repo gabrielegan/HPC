@@ -1,0 +1,36 @@
+1. WHAT IS A LARGE LANGUAGE MODEL AND WHAT IS 'TRAINING'? (Minutes 1-15).
+
+  1.1 Building a Markov Chain of probabilities from a short text
+
+  1.2 Markov Chains expressed as matrices
+
+  1.3 Neural networks and back propagation
+
+
+2. USING WORD EMBEDDING TO CAPTURE MEANING (Minutes 16-35)
+
+  2.1 Audience hands-on with Word Embedding handout
+
+  2.2 Meanings as directions in high-dimensional space
+
+  2.3 Hands-on demo of Word2Vec on Google Colab
+
+
+3. USING HPC TO "FINE-TUNE" A LARGE LANGUAGE MODEL (Minutes 36–50)
+
+  3.1 Fine-tuning as neural stylometry
+
+  3.2 Learning stylistic contrasts from early modern drama
+
+  3.3 What fine-tuning reveals that bag-of-words models cannot
+
+
+4. USING HPC TO GET A LARGE LANGUAGE MODEL TO EXPLAIN ITS OWN WORKING (Minutes 51–70)
+
+  4.1 The black-box problem in computational literary studies
+
+  4.2 Interpreting neural decisions at the passage level
+
+  4.3 Testing explanations rather than trusting them
+
+
